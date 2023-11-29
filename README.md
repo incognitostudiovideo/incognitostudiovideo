@@ -1,26 +1,50 @@
-# Website Cloner 
-<img src='assets/images/logo.png' height='120'/>
-
-A desktop app that allow users to download website files on computer.</br>
-It help to download a full frontend source code html,css,js,images,fonts...
-
-
-### Downloads:
-| Platform | Version | Link                                                                                                                         |
-| -------- | ------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Windows  | ✅   | [Download (.exe)](https://github.com/X-SLAYER/website-cloner-dart/releases/download/Latest/website_cloner-1.0.0+1-windows.exe)  |
-| Mac      |  ❌   | until i buy a mac  |
-| Linux    | ✅   | [Download (.deb)](https://github.com/X-SLAYER/website-cloner-dart/releases/download/Latest/website_cloner-1.0.0+1-linux.deb)  |
+<p align="center">
+    <img width="200" height="auto" src="https://i.ibb.co/6JJ12mt/googlemaps-removebg-preview.png" alt="Google Map Logo" />
+</p>
+   
+**Google Maps** is a web mapping platform and consumer application offered by Google. It offers satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets, real-time traffic conditions, and route planning for traveling by foot, car, air and public transportation
 
 
-## ScreenShot
+### Built With
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-<img src="https://user-images.githubusercontent.com/22800380/222966319-836f6a47-b0c1-4e51-8ce8-bc92e9652bfd.png"/>
+### Deployed In
+* [Netlify](https://netlify.com/)
 
-## Goals
+```bash
+📦  Google-Map-Clone-main
+├── app.js
+├── index.html
+├── LICENSE
+├── README.md
+└── style.css
+```
 
-- [x] Download All assets
-- [x] Work on linux / windows
-- [x] Add custom headers.
-- [ ] Rename resources path
-- [ ] Download multiple pages
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/suhailkakar/Google-Map-Clone
+   ```
+2. Run the app
+   ```sh
+   open index.html file
+   ```
+
+### Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+3. Commit your Changes (`git commit -m 'Some Good Features'`)
+4. Push to the Code (`git push -u origin master `)
+5. Open a Pull Request
+
+
+## License
+
+Google Map Clone is open source software licensed under the MIT License
+
+### Contributor
+
+* [Suhail Kakar](https://suhailkakar.com)
